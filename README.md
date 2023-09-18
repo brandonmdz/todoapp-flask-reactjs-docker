@@ -23,7 +23,7 @@ Open the .env file located in the frontend folder and set the host IP where you 
    ```
 - 3: Start the application:
   
-   ```
+```
 $ docker-compose up -d
    ```
 
