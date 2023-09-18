@@ -22,10 +22,11 @@ Open the .env file located in the frontend folder and set the host IP where you 
     VITE_API_URL=http://your-ip-here:5000
    ```
 - 3: Start the application:
-
+  
    ```
 $ docker-compose up -d
    ```
+
 This will build the images and run the containers for both the frontend and backend.
 
 - 4: Access the application:
